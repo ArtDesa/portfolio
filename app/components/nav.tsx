@@ -4,7 +4,7 @@ import { metaData } from "../config";
 
 const navItems = {
   "/projects": { name: "Projects" },
-  "https://drive.google.com/file/d/15GUb6dPV7EiVIqPLRG5Kf8WTT7Jzp01R/view?usp=drive_link": { name: "Resume" }
+  "https://drive.google.com/file/d/1TQb42ohlLKEdheWGu2bdeu2mpM2bTWgI/view?usp=sharing": { name: "Resume" }
 };
 
 export function Navbar() {
