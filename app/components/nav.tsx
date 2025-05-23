@@ -3,9 +3,8 @@ import { ThemeSwitch } from "./theme-switch";
 import { metaData } from "../config";
 
 const navItems = {
-  "/blog": { name: "Blog" },
   "/projects": { name: "Projects" },
-  "/photos": { name: "Photos" },
+  "https://drive.google.com/file/d/15GUb6dPV7EiVIqPLRG5Kf8WTT7Jzp01R/view?usp=drive_link": { name: "Resume" }
 };
 
 export function Navbar() {
