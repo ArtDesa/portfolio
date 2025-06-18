@@ -18,16 +18,18 @@ export default function Page() {
       </h1>
       <div className="prose prose-neutral dark:prose-invert">
         <p>
-          Passionate and motivated entry-level full-stack Software Engineer with 
-          a Bachelor of Science degree in Information Technology, with an understanding 
-          of object-oriented programming, data structures, and software engineering best practices. 
+          Driven and detail-oriented full-stack Software Engineer with a Bachelor of Science in Information Technology and a strong foundation 
+          in object-oriented programming, data structures, and software engineering principles. I have hands-on experience building web-based 
+          applications across the stack—from crafting clean, intuitive user interfaces to designing and maintaining robust backend systems. 
         </p>
         <p>
-          Have worked on both the Front End and Back end of web-based projects. Have also made use of API integration. 
+          I thrive in collaborative, iterative environments that value planning, feedback, and continuous improvement. 
+          Alongside development work, I also write clear technical documentation and system requirements to help keep teams aligned 
+          and projects moving forward. An eager learner who’s always expanding my toolkit, I adapt quickly and feel at ease across the 
+          entire development lifecycle. 
         </p>
         <p>
-          Familiar with database systems and database design using SQL and RDBMS. Also familiar with the SDLC, Agile methodology, and Sprints. 
-          Comfortable with the use of version control such a Git and GitHub.
+          I also enjoy playing tennis on the weekend.
         </p>
       </div>
     </section>
