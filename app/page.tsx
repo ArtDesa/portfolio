@@ -19,8 +19,11 @@ export default function Page() {
       <div className="prose prose-neutral dark:prose-invert">
         <p>
           Driven and detail-oriented full-stack Software Engineer with a Bachelor of Science in Information Technology and a strong foundation 
-          in object-oriented programming, data structures, and software engineering principles. I have hands-on experience building web-based 
-          applications across the stack—from crafting clean, intuitive user interfaces to designing and maintaining robust backend systems. 
+          in object-oriented programming, data structures, and software engineering principles. 
+        </p>
+        <p>
+          I have hands-on experience building web-based applications across the stack—from crafting clean, 
+          intuitive user interfaces to designing and maintaining robust backend systems.
         </p>
         <p>
           I thrive in collaborative, iterative environments that value planning, feedback, and continuous improvement. 
